@@ -1,0 +1,11 @@
+{
+  "realm": "greenlightguru",
+  "auth-server-url": "http://localhost:8080/",
+  "ssl-required": "external",
+  "client-id": "my-protected-app",
+  "credentials": {
+    "secret": "6yEQ0xwTIxmhaa2J2zMke2nkL5pdyDqB"
+  },
+  "confidential-port": 0,
+  "bearer-only": false
+}
